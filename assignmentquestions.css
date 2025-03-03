@@ -20,3 +20,21 @@
     border-radius: 5%;
     text-align: center;
 }
+
+#main1 {
+    margin-top: 5px;
+    height: 50px;
+    width: 900px;
+    border: 2px solid rgb(46, 130, 220);
+    background-color: rgb(235, 154, 154);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.child {
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+}
